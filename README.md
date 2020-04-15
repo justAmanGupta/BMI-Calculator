@@ -3,3 +3,5 @@
 BMI-Calculator with a beautiful UI.
 
 Works on Android and iOS.
+
+![Screenshot1 - Copy](https://user-images.githubusercontent.com/50948920/79322710-d4935200-7f2a-11ea-83ab-2243f615f40a.jpg)
